@@ -59,8 +59,3 @@
 ## 📖 Blog Posts
 - [Two pointer technique in javascript](https://iq.opengenus.org/two-pointer-technique-in-javascript/)
 - [Corporate flight bookings](https://iq.opengenus.org/corporate-flight-bookings/)
-<!-- Add more blog post links -->
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abrham-lakew-827a951b9)
-[![Email](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail)](mailto:ablakew7ab@gmail.com)
