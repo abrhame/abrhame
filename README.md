@@ -2,8 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=abrhame)
 
-![Bluish Coding](https://media.giphy.com/media/QuC8dMvT6jYZ2JZto1/giphy.gif)
-
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 ## 🚀 About Me
