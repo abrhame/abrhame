@@ -26,8 +26,7 @@
 - Competitive programming strategies.
 
 ## 📫 How to Reach Me
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/abrham-lakew-827a951b9)
-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/[your-twitter])
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abrham-lakew-827a951b9)
 - [![Email](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail)](mailto:your.email@example.com)
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/ablakew7ab)
 - [![Codeforces](https://img.shields.io/badge/-Codeforces-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ablakew7ab)
@@ -62,5 +61,5 @@
 <!-- Add more blog post links -->
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/abrham-lakew-827a951b9)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abrham-lakew-827a951b9)
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail)](mailto:ablakew7ab@gmail.com)
