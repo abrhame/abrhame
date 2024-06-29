@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=abrhame)
 
-![Coding](https://user-images.githubusercontent.com/70353051/201498971-29d3c4c8-320e-488f-a6ec-92d7a3bc961d.gif)
+
 
 ## 🚀 About Me
 - 💻 I'm a Full-Stack Developer specializing in the MERN stack.
