@@ -57,8 +57,8 @@
 
 
 ## 📖 Blog Posts
-- [Two pointer technique in javascript](https://yourblog.com/blog-post-1](https://iq.opengenus.org/two-pointer-technique-in-javascript/)
-- [Corporate flight bookings](https://yourblog.com/blog-post-2](https://iq.opengenus.org/corporate-flight-bookings/)
+- [Two pointer technique in javascript](https://iq.opengenus.org/two-pointer-technique-in-javascript/)
+- [Corporate flight bookings](https://iq.opengenus.org/corporate-flight-bookings/)
 <!-- Add more blog post links -->
 
 ## 📫 Connect with Me
