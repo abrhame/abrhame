@@ -1,6 +1,6 @@
 # Hi there, I'm Abrham 👋
 
-![Profile views](https://gpvc.arturio.dev/abrhame)
+![Profile views](https://komarev.com/ghpvc/?username=abrhame)
 
 ![Coding](https://user-images.githubusercontent.com/70353051/201498971-29d3c4c8-320e-488f-a6ec-92d7a3bc961d.gif)
 
@@ -53,7 +53,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abrhame&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrhame&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrhame&theme=radical)
-![Profile views](https://komarev.com/ghpvc/?username=abrhame)
+
 
 
 ## 📖 Blog Posts
