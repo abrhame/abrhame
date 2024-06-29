@@ -50,8 +50,8 @@
 <!-- Add more badges as per your skills -->
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abrhame&show_icons=true&theme=blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrhame&layout=compact&theme=blue)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abrhame&show_icons=true&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrhame&layout=compact&theme=blueberry)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrhame&theme=blue)
 
 
