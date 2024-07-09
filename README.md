@@ -2,7 +2,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=abrhame)
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="1200"/>
+
 
 
 ## 🚀 About Me
